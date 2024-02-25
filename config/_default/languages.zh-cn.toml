@@ -14,7 +14,7 @@ copyright = "Copy, _right?_ :thinking_face:"
 
 [params.author]
   name = "Steven 小文"
-  # image = "img/author.jpg"
+  image = "img/author.jpg"
   headline = "欢迎来到小文的小站"
   # bio = "A little bit about you"
   links = [
